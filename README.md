@@ -12,7 +12,7 @@ All words are lowercased, but not lemmatized. Please note that proper nouns such
 
 ---
 
-A second CSV will add Google Translate translations of the wordlist.
+A second CSV adds Google Translate translations of the wordlist.
 
 Please credit if using:
 
@@ -24,5 +24,13 @@ Moez, Catherine. 2025. "Irish Language Wordlist". Github. Available at: https://
  title = {Irish Language Wordlist},
  url = {https://github.com/catmoez/Irish-Language-Resources},
  urldate = {16.01.2025}
+}
+
+@misc{cm2025irish2,
+ author = {Moez, Catherine},
+ year = {2025},
+ title = {Irish Language Wordlist with English Translation},
+ url = {https://github.com/catmoez/Irish-Language-Resources},
+ urldate = {17.01.2025}
 }
 
